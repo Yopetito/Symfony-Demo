@@ -1,3 +1,16 @@
 body {
-    background-color: skyblue;
+    background-color: rgb(233, 214, 214);
+}
+
+h1 {
+    color: rgb(16, 91, 126);
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    float: left;
+    margin-right: 10px;
 }
